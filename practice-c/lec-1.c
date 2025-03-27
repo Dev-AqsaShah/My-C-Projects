@@ -120,5 +120,29 @@
 // COMPILATION
 // A computer program that translate C code into machine code
 
-QUESTIONS
-WRITE a program to calcul
+// QUESTIONS
+// 1 WRITE a program to calculate area of a square (side is given)
+
+// int main() {
+//     int side;
+//     printf("enter side");
+//     scanf("%d", &side);
+
+//     printf("area is : %d", side * side);
+//     return 0;
+// }
+
+
+// 2 write a program to calculate area of a circle.(radius is given)
+// int main() {
+//     float radius;
+//     printf("enter radius :");
+//     scanf("%f", &radius);
+
+//     printf("area is : %f", 3.14 * radius * radius);
+//     return 0;
+// }
+
+
+
+
