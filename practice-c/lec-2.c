@@ -25,11 +25,37 @@ types
 #include <stdio.h>
 #include <math.h>
 
-int main() {
-    int b, c;
-    b = c = 1;
-    int a = b + c;
-    int power = (int)pow(b, c);  // Casting pow result to int
-    printf("a = %d, power = %d\n", a, power);
-    return 0;
-}
+// int main() {
+//     int b, c;
+//     b = c = 1;
+//     int a = b + c;
+//     int power = (int)pow(b, c);  // Casting pow result to int
+//     printf("a = %d, power = %d\n", a, power);
+//     return 0;
+// }
+
+// practice qs 3
+// solve:
+// a. 5*2/2*3;
+
+// int main() {
+//     int a = 5 * 2 - 3 * 2;
+//     printf("%d\n", a);
+//     return 0;
+// }
+
+// control instructions
+/* used to determine flow of program
+a. sequence control 
+b. decision Control 
+c. loop control 
+d. case control
+
+OPERATORS
+a. arithmetic operators => +,-,/,*,%,
+b. relational operators
+c. logical operators
+d. bitwise 
+e. assignment
+f. ternary 
+*/
