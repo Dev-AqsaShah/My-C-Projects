@@ -53,9 +53,49 @@ d. case control
 
 OPERATORS
 a. arithmetic operators => +,-,/,*,%,
-b. relational operators
-c. logical operators
+b. relational operators => ==, >, >=, <, <=, !=
+c. logical operators => && and, || or, ! not
 d. bitwise 
 e. assignment
 f. ternary 
+c m true ya false nhi hota true ki jaga hota h 1 or fals ki jagah 0
+tabl for and &&
+1 2 out
+t t  t
+t f  f
+f t  f
+f f  f
+
+tabl for or ||
+1 2  output
+f t   t
+f f   f
+f t   t
+f f   f
+
+assignment operators
+=, +=, -=, *=, /=, %=
+
+practice q5
+
+write a program to check if a number is divisible by 2 or not
+int main() {
+int x;
+printf("enter a num :");
+scanf("%d", &x);
+printf("%d", x % 2 == 0);
+return 0;
+}
+
+
+int main() {
+int  x;
+printf("enter num:")
+scanf("%d", &x);
+printf("%d \n", x>9 && x<100);
+return 0
+}
+
+
+
 */
