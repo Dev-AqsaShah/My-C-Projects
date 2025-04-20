@@ -56,3 +56,69 @@
     
 // }
 
+// do while (condition)
+// {
+//     /* code */
+// }
+
+
+// int main() {
+//     int i = 1;
+//     do {
+//         printf("%d\n, i");
+//         i++;
+//     }while (i<=5);
+//     return 0;
+    
+// }
+
+// q1
+// print th sum of first n natural num 
+// n = 4
+// also print thm in rvrs
+// int main() {
+//     int n;
+//     printf("entr num: ");
+//     scanf("%d", &n);
+
+//     int sum = 0;
+//     for(int i=1; i<=n; i++) {
+//         sum = sum + i;
+//     }
+//     printf("sum is %d", sum);
+//     return 0;
+// }
+
+// tabl in c
+// int main() {
+//     int n;
+//     printf("entr num :");
+//     scanf("%d", &n);
+
+//     for(int i=1; i<=10; i++) {
+//         printf("%d \n", n*i);
+//     }
+
+//     return 0;
+// }
+
+// int main() {
+//     for(int i=1; i<=10; i++) 
+//     {
+//         if (i == 6)
+//         {
+//             continue;
+//         }
+//         printf("%d \n", i);
+//     }
+//     return 0;
+// }
+
+
+
+
+
+
+
+
+
