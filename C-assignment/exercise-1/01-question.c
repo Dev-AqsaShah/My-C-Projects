@@ -24,3 +24,39 @@ int main() {
 
     return 0;
 }
+
+// ***********************************************************************************
+
+// Pseudocode
+
+// START
+//   Declare variables: hours, minutes, totalMinutes
+
+//   DISPLAY "Input hours:"
+//   READ hours
+
+//   DISPLAY "Input minutes:"
+//   READ minutes
+
+//   CALCULATE totalMinutes = (hours * 60) + minutes
+
+//   DISPLAY "Total: totalMinutes minutes."
+
+// END
+
+// ****************************************************************************************
+
+// Flowchart Description:
+// Here’s the structure of the flowchart:
+
+// Start
+
+// Input hours
+
+// Input minutes
+
+// Calculate totalMinutes = (hours × 60) + minutes
+
+// Output total minutes
+
+// End
