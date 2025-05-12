@@ -7,8 +7,7 @@ the sum of three number: 30
 // ***********************************************
 
 // Pseudocode:
-// pgsql
-// Copy code
+
 // START
 //   Declare variables: num1, num2, num3, sum
 
@@ -23,7 +22,7 @@ the sum of three number: 30
 
 // ****************************************************
 
-// 🧭 Flowchart Steps:
+// Flowchart:
 // Start
 
 // Input three numbers (in one line)

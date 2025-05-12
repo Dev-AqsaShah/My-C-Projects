@@ -46,8 +46,7 @@ int main() {
 
 // ****************************************************************************************
 
-// Flowchart Description:
-// Here’s the structure of the flowchart:
+// Flowchart:
 
 // Start
 

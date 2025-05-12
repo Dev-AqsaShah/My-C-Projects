@@ -7,8 +7,7 @@ input minutes: 546
 // ******************************************************
 
 // Pseudocode:
-// pgsql
-// Copy code
+
 // START
 //   Declare variables: totalMinutes, hours, minutes
 
@@ -24,7 +23,8 @@ input minutes: 546
 
 // *********************************************************
 
-// Flowchart Steps:
+// Flowchart:
+
 // Start
 
 // Input total minutes
