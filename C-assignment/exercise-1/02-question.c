@@ -23,22 +23,18 @@ input minutes: 546
 
 // *********************************************************
 
-// Flowchart:
+// Flowchart Steps with Shapes
+// Start → 🔵 Oval
 
-// Start
+// Input total minutes → 🟨 Parallelogram
 
-// Input total minutes
+// hours = totalMinutes / 60 → 🟥 Rectangle
 
-// Process:
+// minutes = totalMinutes % 60 → 🟥 Rectangle
 
-// hours = totalMinutes / 60
+// Output: Display hours and minutes → 🟨 Parallelogram
 
-// minutes = totalMinutes % 60
-
-// Output: Display hours and minutes
-
-// End
-
+// End → 🔵 Oval
 
 
 #include <stdio.h>

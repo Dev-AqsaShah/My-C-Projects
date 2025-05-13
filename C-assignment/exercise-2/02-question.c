@@ -51,21 +51,19 @@ int main() {
 
 // ************************************************************************
 
-// Flowchart :
+// Flowchart Steps with Shapes
+// Start → 🔵 Oval
 
-// Start
+// Input first number (num1) → 🟨 Parallelogram
 
-// Input first number
+// Input second number (num2) → 🟨 Parallelogram
 
-// Input second number
+// Process: abs1 = labs(num1) → 🟥 Rectangle
 
-// Process:
+// Process: abs2 = labs(num2) → 🟥 Rectangle
 
-// Use labs(num1) to get absolute of first number
+// Output abs1 and abs2 → 🟨 Parallelogram
 
-// Use labs(num2) to get absolute of second number
+// End → 🔵 Oval
 
-// Output absolute value of both numbers
-
-// End
 

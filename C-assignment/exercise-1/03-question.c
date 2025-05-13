@@ -22,16 +22,20 @@ the sum of three number: 30
 
 // ****************************************************
 
-// Flowchart:
-// Start
+// Flowchart Steps with Shapes
+// Start → 🔵 Oval
 
-// Input three numbers (in one line)
+// Input three numbers (num1, num2, num3) → 🟨 Parallelogram
 
-// Process: sum = num1 + num2 + num3
+// sum = num1 + num2 + num3 → 🟥 Rectangle
 
-// Output the sum
+// Output sum → 🟨 Parallelogram
 
-// End
+// End → 🔵 Oval
+
+
+
+// *******************************************************
 
 
 

@@ -41,18 +41,19 @@ int main() {
 
 // *****************************************************************
 
-// Flowchart Description:
-// Start
+// Flowchart Steps with Shapes
+// Start → 🔵 Oval
 
-// Input first number (num1)
+// Input first number (num1) → 🟨 Parallelogram
 
-// Input second number (num2)
+// Input second number (num2) → 🟨 Parallelogram
 
-// Process: Multiply num1 * num2 and store in product
+// Process: Multiply num1 * num2 and store in product → 🟥 Rectangle
 
-// Output product
+// Output product → 🟨 Parallelogram
 
-// End
+// End → 🔵 Oval
+
 
 
 

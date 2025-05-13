@@ -33,8 +33,7 @@ int main() {
 // *************************************************************
 
 // Pseudocode:
-// pgsql
-// Copy code
+
 // START
 //   Declare variables: numerator, denominator, quotient, remainder
 
@@ -54,21 +53,20 @@ int main() {
 
 // *****************************************************************************
 
-// Flowchart Description:
-// Start
+// Flowchart Steps with Shapes
+// Start → 🔵 Oval
 
-// Input numerator
+// Input numerator → 🟨 Parallelogram
 
-// Input denominator
+// Input denominator → 🟨 Parallelogram
 
-// Process:
+// Calculate quotient = numerator / denominator → 🟥 Rectangle
 
-// quotient = numerator / denominator
+// Calculate remainder = numerator % denominator → 🟥 Rectangle
 
-// remainder = numerator % denominator
+// Output quotient → 🟨 Parallelogram
 
-// Output quotient
+// Output remainder → 🟨 Parallelogram
 
-// Output remainder
+// End → 🔵 Oval
 
-// End

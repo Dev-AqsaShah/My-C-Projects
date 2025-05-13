@@ -46,16 +46,16 @@ int main() {
 
 // ****************************************************************************************
 
-// Flowchart:
+// Flowchart Steps with Shapes
+// Start → 🔵 Oval
 
-// Start
+// Input hours → 🟨 Parallelogram
 
-// Input hours
+// Input minutes → 🟨 Parallelogram
 
-// Input minutes
+// Calculate totalMinutes = (hours × 60) + minutes → 🟥 Rectangle
 
-// Calculate totalMinutes = (hours × 60) + minutes
+// Output total minutes → 🟨 Parallelogram
 
-// Output total minutes
+// End → 🔵 Oval
 
-// End

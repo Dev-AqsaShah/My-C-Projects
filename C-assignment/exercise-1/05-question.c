@@ -26,8 +26,7 @@ int main() {
 // ********************************************************************************************
 
 // Pseudocode:
-// pgsql
-// Copy code
+
 // START
 //   Declare variables: years, months
 
@@ -42,16 +41,13 @@ int main() {
 
 // ************************************************************************************
 
-// Flowchart Steps:
-// Start
+// Flowchart Steps with Shapes
+// Start → 🔵 Oval
 
-// Input age in years
+// Input age in years → 🟨 Parallelogram
 
-// Process:
-// months = years × 12
+// Process: months = years × 12 → 🟥 Rectangle
 
-// Output: total months
+// Output total months → 🟨 Parallelogram
 
-// End
-
-// 
+// End → 🔵 Oval

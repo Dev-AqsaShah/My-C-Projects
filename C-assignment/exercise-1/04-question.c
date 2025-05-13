@@ -11,8 +11,7 @@ the quotient of the given numbers: 2.000000
 
 
 // Pseudocode:
-// pgsql
-// Copy code
+
 // START
 //   Declare variables: num1, num2, sum, difference, product, quotient
 
@@ -33,32 +32,31 @@ the quotient of the given numbers: 2.000000
 
 // *********************************************************
 
-// Flowchart Steps:
-// Start
+// Flowchart Steps with Shapes
+// Start → 🔵 Oval
 
-// Input two numbers
+// Input two numbers (num1, num2) → 🟨 Parallelogram
 
-// Process:
+// sum = num1 + num2 → 🟥 Rectangle
 
-// sum = num1 + num2
+// difference = num1 - num2 → 🟥 Rectangle
 
-// difference = num1 - num2
+// product = num1 * num2 → 🟥 Rectangle
 
-// product = num1 * num2
+// quotient = (float)num1 / num2 → 🟥 Rectangle
 
-// quotient = num1 / num2 (casted to float)
+// Output sum → 🟨 Parallelogram
 
-// Output:
+// Output difference → 🟨 Parallelogram
 
-// Display sum
+// Output product → 🟨 Parallelogram
 
-// Display difference
+// Output quotient → 🟨 Parallelogram
 
-// Display product
+// End → 🔵 Oval
 
-// Display quotient
 
-// End
+// *****************************************************************
 
 
 #include <stdio.h>

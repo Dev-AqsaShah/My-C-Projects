@@ -50,20 +50,22 @@ int main() {
 
 // *****************************************************************
 
-// Flowchart :
-// Start
+// Flowchart Steps with Shapes
+// Start → 🔵 Oval
 
-// Input a
+// Input a → 🟨 Parallelogram
 
-// Input b
+// Input b → 🟨 Parallelogram
 
-// Store a in temp
+// Store a in temp → 🟥 Rectangle
 
-// Assign b to a
+// Assign b to a → 🟥 Rectangle
 
-// Assign temp to b
+// Assign temp to b → 🟥 Rectangle
 
-// Output swapped values of a and b
+// Output swapped values of a and b → 🟨 Parallelogram
 
-// End
+// End → 🔵 Oval
+
+
 
