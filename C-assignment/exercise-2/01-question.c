@@ -21,7 +21,7 @@ int main() {
     quotient = numerator / denominator;
     remainder = numerator % denominator;
 
-    // displaying results
+    // displaying resultss
     printf("quotient = %d\n", quotient);
     printf("remainder = %d\n", remainder);
 
