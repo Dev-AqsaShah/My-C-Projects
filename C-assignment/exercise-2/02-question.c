@@ -30,8 +30,7 @@ int main() {
 // *********************************************************************************
 
 // Pseudocode:
-// pgsql
-// Copy code
+
 // START
 //   Declare long integers: num1, num2
 
