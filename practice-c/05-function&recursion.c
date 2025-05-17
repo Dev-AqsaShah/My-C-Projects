@@ -21,12 +21,40 @@
 
 #include<stdio.h>
 
-void printHello();
+// void printHello();
+
+// int main() {
+
+//     return 0;
+// }
+// void printHello() {
+//     printf("Hello!");
+// }
+
+// practice q 
+// write a function that prints sallam if user is pakistani and bonjour if the user is french.
+
+void sallam();
+void bonjour();
 
 int main() {
+    printf("enter f for french and p for pakistan :");
+    char ch;
+    scanf("%c", &ch);
+
+    if (ch == 'p') {
+        sallam();
+    } else {
+        bonjour();
+    }
 
     return 0;
 }
-void printHello() {
-    printf("Hello!");
+
+void salam() {
+    printf("sallam\n");
+}
+
+void bonjour() {
+    printf("bonjour\n");
 }
