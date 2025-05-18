@@ -58,3 +58,16 @@ void salam() {
 void bonjour() {
     printf("bonjour\n");
 }
+
+
+int sum(int a, int b);
+
+int main() {
+    int a, b;
+    printf("enter first number : ");
+    scanf("%d, &a");
+    printf("enter second number : ");
+    scanf("%d", &b);
+
+    return 0;
+}
